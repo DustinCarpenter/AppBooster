@@ -1,5 +1,9 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+define('APP_CLIENT','Wayspring');
+define('APP_NAME','AppBooster');
+define('APP_VERSION','1.0');
+
 /*
 |--------------------------------------------------------------------------
 | File and Directory Modes
